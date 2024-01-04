@@ -8,6 +8,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - chapitre 1 - Les bases
     - summary.qmd
     - references.qmd
 
