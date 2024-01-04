@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Introduction aux grappes de calcul - Alliance de Recherche Numérique du Canada"
+  author: "CCJ"
+  date: "2024-01-04"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
