@@ -38,7 +38,7 @@ jobs:
       - name: prepare deployment
         run: |
           mkdir docs
-          mv index.html docs/
+          mv _book/index.html docs/
           if [ -d index_files ]; then
             mv index_files docs/
           fi
