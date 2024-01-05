@@ -6,7 +6,7 @@ book:
   author: "CCJ, VC, VB"
   date: "2024-01-04"
   chapters:
-    - 0_Preface.qmd
+    - index.qmd
     - 1_Intro.qmd
     - 2_Synthese_concepts_base.qmd
     - 3_Pre-requis.qmd

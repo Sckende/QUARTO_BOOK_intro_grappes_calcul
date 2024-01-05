@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Introduction aux grappes de calcul - Alliance de Recherche Numérique du Canada",
     "section": "",
-    "text": "Preface\nThis is a Quarto book. Welcome !\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "Preface\nCe livre a pour objectif de présenter les concepts de base, le workflow minimal et une liste de ressources pour l’utilisation des super-ordinateurs mis à disposition par Alliance Canada https://docs.alliancecan.ca/wiki/Technical_documentation/fr."
   },
   {
     "objectID": "intro.html",
@@ -33,5 +33,33 @@
     "title": "Chapitre 1 - Les bases",
     "section": "",
     "text": "Ce chapitre vise à faire le point sur les connaissances nécessaires afin de développer et lancer un script sur un des super-ordinateurs de Calcul Canada."
+  },
+  {
+    "objectID": "1_Intro.html",
+    "href": "1_Intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Partie à développer"
+  },
+  {
+    "objectID": "2_Synthese_concepts_base.html",
+    "href": "2_Synthese_concepts_base.html",
+    "title": "2  Synthèse des concepts de base",
+    "section": "",
+    "text": "Def machine virtuelle ? Modèle client-serveur ? Comment se connecter ? (cf connexion ssh, … )"
+  },
+  {
+    "objectID": "3_Pre-requis.html",
+    "href": "3_Pre-requis.html",
+    "title": "3  Pré-requis",
+    "section": "",
+    "text": "Avant de commencer –&gt; à développer"
+  },
+  {
+    "objectID": "4_Workflow.html",
+    "href": "4_Workflow.html",
+    "title": "4  Workflow",
+    "section": "",
+    "text": "Avant de commencer\nSoumettre une tâche\nTester une tâche avec un environnement interactif Soumettre une tâche avec sbatch Qui est slurm? Lancer une tâche Le script de tâches Vérifier l’état de la tâche “Parallélisation” des tâches"
   }
 ]

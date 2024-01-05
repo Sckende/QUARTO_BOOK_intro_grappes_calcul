@@ -13,5 +13,17 @@
   },
   "chapitre_1.qmd": {
     "chapitre_1.html": "ede1e90f"
+  },
+  "1_Intro.qmd": {
+    "1_Intro.html": "dbd0b776"
+  },
+  "2_Synthese_concepts_base.qmd": {
+    "2_Synthese_concepts_base.html": "c18308af"
+  },
+  "3_Pre-requis.qmd": {
+    "3_Pre-requis.html": "68f7a2a8"
+  },
+  "4_Workflow.qmd": {
+    "4_Workflow.html": "70d7075e"
   }
 }
