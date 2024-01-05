@@ -1,8 +1,9 @@
 # Synthèse des concepts de base
 
-<ul>
-  <li>Def machine virtuelle ?</li>  
-  <li>Modèle client-serveur ?</li>
-  <li>Comment se connecter ? (cf connexion ssh, … )</li>
-  <li>Gestionnaire de tâches - Slurm</li>
-</ul>
+## Def machine virtuelle ?
+
+## Modèle client-serveur ?
+
+## Comment se connecter ? (cf connexion ssh, … )
+
+## Gestionnaire de tâches - Slurm

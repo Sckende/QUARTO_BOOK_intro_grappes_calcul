@@ -4,11 +4,11 @@
   <li>Soumettre une tâche</li>
   <li>Tester une tâche avec un environnement interactif</li>
   <li>Soumettre une tâche avec sbatch</li>
-    <ol>
+    <ul>
       <li>Lancer une tâche</li>
       <li>Le script de tâches</li>
       <li>Vérifier l'état de la tâche</li>
       <li>“Parallélisation” des tâches </li>
-    </ol>
+    </ul>
   </li>
 </ol>
