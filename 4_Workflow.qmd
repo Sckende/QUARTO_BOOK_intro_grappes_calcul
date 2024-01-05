@@ -1,0 +1,10 @@
+# Workflow
+	Avant de commencer
+	Soumettre une tâche
+Tester une tâche avec un environnement interactif
+Soumettre une tâche avec sbatch
+			Qui est slurm?
+Lancer une tâche
+Le script de tâches
+			Vérifier l'état de la tâche
+			“Parallélisation” des tâches 

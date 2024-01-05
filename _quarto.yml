@@ -3,14 +3,14 @@ project:
 
 book:
   title: "Introduction aux grappes de calcul - Alliance de Recherche Numérique du Canada"
-  author: "CCJ"
+  author: "CCJ, VC, VB"
   date: "2024-01-04"
   chapters:
-    - index.qmd
-    - intro.qmd
-    - chapitre_1.qmd
-    - chapitre_2.qmd
-    - summary.qmd
+    - 0_Preface.qmd
+    - 1_Intro.qmd
+    - 2_Synthese_concepts_base.qmd
+    - 3_Pre-requis.qmd
+    - 4_Workflow.qmd
     - references.qmd
 
 bibliography: references.bib

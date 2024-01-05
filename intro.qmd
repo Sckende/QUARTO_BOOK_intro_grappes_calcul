@@ -1,5 +1,0 @@
-# Introduction
-
-Cette partie va servir de contenant pour l'introduction du cours sur les grappes de calcul mises à disposition par Alliance Canada.
-
-See @knuth84 for additional discussion of literate programming.

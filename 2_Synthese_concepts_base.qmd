@@ -1,0 +1,5 @@
+# Synthèse des concepts de base
+
+Def machine virtuelle ?
+Modèle client-serveur ?
+Comment se connecter ? (cf connexion ssh, … )
