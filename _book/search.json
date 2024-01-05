@@ -60,6 +60,62 @@
     "href": "4_Workflow.html",
     "title": "3  Workflow",
     "section": "",
-    "text": "Avant de commencer\n\n\nSoumettre une tâche\n\n\nTester une tâche avec un environnement interactif\n\n\nSoumettre une tâche avec sbatch\n\n\n\nQui est slurm?\n\n\nLancer une tâche\n\n\nLe script de tâches\n\n\nVérifier l’état de la tâche\n\n\n“Parallélisation” des tâches"
+    "text": "Avant de commencer\n\n\nSoumettre une tâche\n\n\nTester une tâche avec un environnement interactif\n\n\nSoumettre une tâche avec sbatch\n\n\n\nLancer une tâche\n\n\nLe script de tâches\n\n\nVérifier l’état de la tâche\n\n\n“Parallélisation” des tâches"
+  },
+  {
+    "objectID": "2_Synthese_concepts_base.html#def-machine-virtuelle",
+    "href": "2_Synthese_concepts_base.html#def-machine-virtuelle",
+    "title": "1  Synthèse des concepts de base",
+    "section": "Def machine virtuelle ?",
+    "text": "Def machine virtuelle ?"
+  },
+  {
+    "objectID": "2_Synthese_concepts_base.html#modèle-client-serveur",
+    "href": "2_Synthese_concepts_base.html#modèle-client-serveur",
+    "title": "1  Synthèse des concepts de base",
+    "section": "Modèle client-serveur ?",
+    "text": "Modèle client-serveur ?"
+  },
+  {
+    "objectID": "2_Synthese_concepts_base.html#comment-se-connecter-cf-connexion-ssh",
+    "href": "2_Synthese_concepts_base.html#comment-se-connecter-cf-connexion-ssh",
+    "title": "1  Synthèse des concepts de base",
+    "section": "Comment se connecter ? (cf connexion ssh, … )",
+    "text": "Comment se connecter ? (cf connexion ssh, … )"
+  },
+  {
+    "objectID": "2_Synthese_concepts_base.html#gestionnaire-de-tâches---slurm",
+    "href": "2_Synthese_concepts_base.html#gestionnaire-de-tâches---slurm",
+    "title": "1  Synthèse des concepts de base",
+    "section": "Gestionnaire de tâches - Slurm",
+    "text": "Gestionnaire de tâches - Slurm\nLa vie est bien trop courte pour perdre son temps à se faire une place là où l’on en a pas, pour démontrer qu’on a ses chances quand on porte tout en soi, pour s’encombrer de doutes quand la confiance est là, pour prouver un amour à qui n’ouvre pas les bras, pour performer aux jeux de pouvoir quand on n’a pas le gout à ça, pour s’adapter à ce qui n’épanouit pas. La vie est bien trop courte pour la perdre à paraître, s’effacer, se plier, dépasser, trop forcer. Quand il nous suffit d’être, et de lâcher tout combat que l’on ne mène bien souvent qu’avec soi, pour enfin faire la paix, être en paix. Et vivre… En faisant ce qu’on aime, auprès de qui nous aime, dans un endroit qu’on aime, en étant qui nous sommes, Vraiment. [ Alexandre Jollien ]"
+  },
+  {
+    "objectID": "4_Workflow.html#avant-de-commencer",
+    "href": "4_Workflow.html#avant-de-commencer",
+    "title": "3  Workflow",
+    "section": "Avant de commencer",
+    "text": "Avant de commencer"
+  },
+  {
+    "objectID": "4_Workflow.html#soumettre-une-tâche",
+    "href": "4_Workflow.html#soumettre-une-tâche",
+    "title": "3  Workflow",
+    "section": "Soumettre une tâche",
+    "text": "Soumettre une tâche"
+  },
+  {
+    "objectID": "4_Workflow.html#tester-une-tâche-avec-un-environnement-interactif",
+    "href": "4_Workflow.html#tester-une-tâche-avec-un-environnement-interactif",
+    "title": "3  Workflow",
+    "section": "Tester une tâche avec un environnement interactif",
+    "text": "Tester une tâche avec un environnement interactif"
+  },
+  {
+    "objectID": "4_Workflow.html#soumettre-une-tâche-avec-sbatch",
+    "href": "4_Workflow.html#soumettre-une-tâche-avec-sbatch",
+    "title": "3  Workflow",
+    "section": "Soumettre une tâche avec sbatch",
+    "text": "Soumettre une tâche avec sbatch\n\n\nLancer une tâche\n\n\nLe script de tâches\n\n\nVérifier l’état de la tâche\n\n\n“Parallélisation” des tâches"
   }
 ]

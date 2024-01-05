@@ -1,9 +1,15 @@
 # Synthèse des concepts de base
 
-## Def machine virtuelle ?
+## Def machine virtuelle {.unnumbered}
 
-## Modèle client-serveur ?
+## Modèle client-serveur {.unnumbered}
 
-## Comment se connecter ? (cf connexion ssh, … )
+## Comment se connecter (cf connexion ssh, … ) {.unnumbered}
 
-## Gestionnaire de tâches - Slurm
+## Gestionnaire de tâches - Slurm {.unnumbered}
+La vie est bien trop courte pour perdre son temps à se faire une place là où l’on en a pas, pour démontrer qu’on a ses chances quand on porte tout en soi, pour s’encombrer de doutes quand la confiance est là, pour prouver un amour à qui n’ouvre pas les bras, pour performer aux jeux de pouvoir quand on n’a pas le gout à ça, pour s’adapter à ce qui n’épanouit pas.
+La vie est bien trop courte pour la perdre à paraître, s’effacer, se plier, dépasser, trop forcer.
+Quand il nous suffit d’être, et de lâcher tout combat que l’on ne mène bien souvent qu’avec soi, pour enfin faire la paix, être en paix.
+Et vivre...
+En faisant ce qu’on aime, auprès de qui nous aime, dans un endroit qu’on aime, en étant qui nous sommes, Vraiment.
+[ Alexandre Jollien ]

@@ -1,14 +1,16 @@
 # Workflow
-<ol>
-  <li>Avant de commencer</li>
-  <li>Soumettre une tâche</li>
-  <li>Tester une tâche avec un environnement interactif</li>
-  <li>Soumettre une tâche avec sbatch</li>
-    <ul>
-      <li>Lancer une tâche</li>
-      <li>Le script de tâches</li>
-      <li>Vérifier l'état de la tâche</li>
-      <li>“Parallélisation” des tâches </li>
-    </ul>
-  </li>
-</ol>
+
+## Avant de commencer {.unnumbered}
+
+## Soumettre une tâche {.unnumbered}
+
+## Tester une tâche avec un environnement interactif {.unnumbered}
+
+## Soumettre une tâche avec sbatch {.unnumbered}
+
+  <ul>
+     <li>Lancer une tâche</li>
+     <li>Le script de tâches</li>
+     <li>Vérifier l'état de la tâche</li>
+     <li>“Parallélisation” des tâches </li>
+   </ul>
