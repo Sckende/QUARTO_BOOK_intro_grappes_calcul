@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Introduction aux grappes de calcul - Alliance de Recherche Numérique du Canada",
+    "title": "Introduction aux grappes de calcul - Alliance",
     "section": "",
-    "text": "Preface\nCe livre a pour objectif de présenter les concepts de base, le workflow minimal et une liste de ressources pour l’utilisation des super-ordinateurs mis à disposition par Alliance Canada https://docs.alliancecan.ca/wiki/Technical_documentation/fr."
+    "text": "Preface\nCe livre a pour objectif de présenter les concepts de base, le workflow minimal et une liste de ressources pour l’utilisation des super-ordinateurs mis à disposition par l’Alliance de recherche numérique du Canada."
   },
   {
     "objectID": "intro.html",
@@ -44,22 +44,22 @@
   {
     "objectID": "2_Synthese_concepts_base.html",
     "href": "2_Synthese_concepts_base.html",
-    "title": "2  Synthèse des concepts de base",
+    "title": "1  Synthèse des concepts de base",
     "section": "",
-    "text": "Def machine virtuelle ? Modèle client-serveur ? Comment se connecter ? (cf connexion ssh, … )"
+    "text": "Def machine virtuelle ?\n\n\nModèle client-serveur ?\n\n\nComment se connecter ? (cf connexion ssh, … )\n\n\nGestionnaire de tâches - Slurm"
   },
   {
     "objectID": "3_Pre-requis.html",
     "href": "3_Pre-requis.html",
-    "title": "3  Pré-requis",
+    "title": "2  Pré-requis",
     "section": "",
-    "text": "Avant de commencer –&gt; à développer"
+    "text": "Avant de commencer –&gt; création compte d’un compte auprès du service d’Alliance"
   },
   {
     "objectID": "4_Workflow.html",
     "href": "4_Workflow.html",
-    "title": "4  Workflow",
+    "title": "3  Workflow",
     "section": "",
-    "text": "Avant de commencer\nSoumettre une tâche\nTester une tâche avec un environnement interactif Soumettre une tâche avec sbatch Qui est slurm? Lancer une tâche Le script de tâches Vérifier l’état de la tâche “Parallélisation” des tâches"
+    "text": "Avant de commencer\n\n\nSoumettre une tâche\n\n\nTester une tâche avec un environnement interactif\n\n\nSoumettre une tâche avec sbatch\n\n\n\nQui est slurm?\n\n\nLancer une tâche\n\n\nLe script de tâches\n\n\nVérifier l’état de la tâche\n\n\n“Parallélisation” des tâches"
   }
 ]

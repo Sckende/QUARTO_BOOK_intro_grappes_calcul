@@ -1,3 +1,3 @@
 # Preface {.unnumbered}
 
-Ce livre a pour objectif de présenter les concepts de base, le workflow minimal et une liste de ressources pour l'utilisation des super-ordinateurs mis à disposition par Alliance Canada <https://docs.alliancecan.ca/wiki/Technical_documentation/fr>.
+Ce livre a pour objectif de présenter les concepts de base, le workflow minimal et une liste de ressources pour l'utilisation des super-ordinateurs mis à disposition par l'[Alliance de recherche numérique du Canada](https://docs.alliancecan.ca/wiki/Technical_documentation/fr).

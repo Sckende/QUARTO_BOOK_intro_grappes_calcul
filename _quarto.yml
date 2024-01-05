@@ -2,12 +2,13 @@ project:
   type: book
 
 book:
-  title: "Introduction aux grappes de calcul - Alliance de Recherche Numérique du Canada"
+  title: "Introduction aux grappes de calcul - Alliance"
   author: "CCJ, VC, VB"
   date: "2024-01-04"
+  cover-image: images/Alliance_logo.jpg
+  repo-url: https://github.com/Sckende/QUARTO_BOOK_intro_grappes_calcul
   chapters:
     - index.qmd
-    - 1_Intro.qmd
     - 2_Synthese_concepts_base.qmd
     - 3_Pre-requis.qmd
     - 4_Workflow.qmd
