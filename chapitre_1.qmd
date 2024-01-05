@@ -1,3 +1,3 @@
-# Chapitre 1 - Les bases {.unnumbered}
+# Chapitre 1 - Les bases 
 
 Ce chapitre vise à faire le point sur les connaissances nécessaires afin de développer et lancer un script sur un des super-ordinateurs de Calcul Canada.
